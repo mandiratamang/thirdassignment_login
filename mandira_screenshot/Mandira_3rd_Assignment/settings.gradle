@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Mandira_3rd_Assignment'
